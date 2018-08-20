@@ -3,47 +3,47 @@
 List of parts
 
 3D-printed:
-1x 03001 - Electronics box base
-1x 03002 - Electronics box cover
-1x 03003 - Mounting plate
-2x 03005 - Support foot (2 pcs.)
-2x 03006 - Electronics support (2 pcs.)
+- 1x 03001 - Electronics box base
+- 1x 03002 - Electronics box cover
+- 1x 03003 - Mounting plate
+- 2x 03005 - Support foot (2 pcs.)
+- 2x 03006 - Electronics support (2 pcs.)
 
 Components:
-1x Turtle HAT
+- 1x Turtle HAT
 
 Fasteners:
-6x M4x12 imbus screw
-4x M4x12 threaded distance
-8x M4x8 imbus screw
-6x M4 hex-nut (or M4 square nut)
-8x M2,5x8 philips-head screw
-4x M2,5x20 threaded distance
-(optional) 2x Cable bushing SKINTOP ST-M LappKabel 53111000 (bushing + o-ring + nut)
-(optional) 5x Rubber bushing M12
+- 6x M4x12 imbus screw
+- 4x M4x12 threaded distance
+- 8x M4x8 imbus screw
+- 6x M4 hex-nut (or M4 square nut)
+- 8x M2,5x8 philips-head screw
+- 4x M2,5x20 threaded distance
+- (optional) 2x Cable bushing SKINTOP ST-M LappKabel 53111000 (bushing + o-ring + nut)
+- (optional) 5x Rubber bushing M12
 
 Cables and connectors:
 
-1x Female connector WEIPU SP1310-S7II with tape
-1x Female connector WEIPU SP1310-S9II with tape
-1x Interface cable with WEIPU SP1310-P7II
-1x Interface cable with WEIPU SP1310-P9II
-1x 2-pin green connector
-1x 8-pin green connector
+- 1x Female connector WEIPU SP1310-S7II with tape
+- 1x Female connector WEIPU SP1310-S9II with tape
+- 1x Interface cable with WEIPU SP1310-P7II
+- 1x Interface cable with WEIPU SP1310-P9II
+- 1x 2-pin green connector
+- 1x 8-pin green connector
 
 Not included and needed:
-1x RaspberryPi 3B+
-1x microSD card (8 GB)
-1x Power adapter (12-24 DC; at least 1A)
+- 1x RaspberryPi 3B+
+- 1x microSD card (8 GB)
+- 1x Power adapter (12-24 DC; at least 1A)
 
 Tools needed:
-1x microSD-to-SD card adapter
-1x Philips-head screwdriver
-1x Imbus screwdriver no. 3
-1x Flat wrench no. 7
-1x Double-sided tape
-1x WD-40 can (or other lubricant)
-1x Computer with a SD card slot
+- 1x microSD-to-SD card adapter
+- 1x Philips-head screwdriver
+- 1x Imbus screwdriver no. 3
+- 1x Flat wrench no. 7
+- 1x Double-sided tape
+- 1x WD-40 can (or other lubricant)
+- 1x Computer with a SD card slot
 
 Getting started
 
