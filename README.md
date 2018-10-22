@@ -1,26 +1,46 @@
-# mechanics-community-dev-kit
+<p align="center">
+  <a href="http://turtlerover.com" alt="Turtle Rover"><img src="https://avatars3.githubusercontent.com/u/36553642?s=84&v=4" alt="Turtle Rover" /></a>
+</p>
+<h1 align="center">Mechanics: Community DevKit</h1>
+<h4 align="center">A basic development kit. Includes 3D files and ready-to-print files</h4>
 
-List of parts
+<p align="center">
+  <a href="https://github.com/TurtleRover/mechanics-community-dev-kit/releases">
+    <img src="https://img.shields.io/github/release/TurtleRover/mechanics-community-dev-kit.svg" alt="Release"></a>
+  <a href="https://github.com/TurtleRover/mechanics-community-dev-kit/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/TurtleRover/mechanics-community-dev-kit.svg">
+  </a>
+  <a href="https://twitter.com/TurtleRover">
+    <img src="https://img.shields.io/twitter/follow/TurtleRover.svg?style=social&label=Follow">
+  </a>
+</p>
+<p align="center">
+  <a href="http://turtlerover.com" alt="Website">Website</a> |
+  <a href="https://www.facebook.com/TurtleRover/" alt="Facebook">Facebook</a> |
+  <a href="https://www.youtube.com/channel/UCxukvEct3wP0S5FACa3uelA" alt="YouTube">YouTube</a>
+</p>
 
-3D-printed:
-- 1x 03001 - Electronics box base
-- 1x 03002 - Electronics box cover
-- 1x 03003 - Mounting plate
-- 2x 03005 - Support foot (2 pcs.)
-- 2x 03006 - Electronics support (2 pcs.)
+# List of parts
 
-Components:
-- 1x Turtle HAT
+## 3D-printed:
+* 1x 03001 - Electronics box base
+* 1x 03002 - Electronics box cover
+* 1x 03003 - Mounting plate
+* 2x 03005 - Support foot (2 pcs.)
+* 2x 03006 - Electronics support (2 pcs.)
 
-Fasteners:
-- 6x M4x12 imbus screw
-- 4x M4x12 threaded distance
-- 8x M4x8 imbus screw
-- 6x M4 hex-nut (or M4 square nut)
-- 8x M2,5x8 philips-head screw
-- 4x M2,5x20 threaded distance
-- (optional) 2x Cable bushing SKINTOP ST-M LappKabel 53111000 (bushing + o-ring + nut)
-- (optional) 5x Rubber bushing M12
+## Components:
+* 1x [Shield](https://github.com/TurtleRover/electronics-shield)
+
+## Fasteners:
+* 6x M4x12 imbus screw
+* 4x M4x12 threaded distance
+* 8x M4x8 imbus screw
+* 6x M4 hex-nut (or M4 square nut)
+* 8x M2,5x8 philips-head screw
+* 4x M2,5x20 threaded distance
+* (optional) 2x Cable bushing SKINTOP ST-M LappKabel 53111000 (bushing + o-ring + nut)
+* (optional) 5x Rubber bushing M12
 
 Cables and connectors:
 
